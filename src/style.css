@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  background: #eef3ff;
+  color: #1b1c1f;
+}
+
+#app {
+  min-height: 100vh;
+  padding: 24px;
+}
